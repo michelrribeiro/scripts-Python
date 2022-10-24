@@ -44,7 +44,7 @@ plotly.graph_objects.
 + Decomposição da série: statsmodels.tsa.seasonal.seasonal_decompose.  
 + Criação do modelo: pmdarima.arima.auto_arima, prophet.Prophet.
 
-**3-dsa-satisfacao-clientes-santander.ipynb**  
+**3-dsa-satisfacao-clientes-santander.ipynb:**  
 Origem: projeto proposto pelo curso “Big Data Real-Time Analytics com
 Python e Spark” da Data Science Academy.
 

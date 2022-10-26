@@ -41,7 +41,7 @@ Fonte dos dados: disponibilizados juntamente com a proposta de projeto.
 Objetivo: criar um modelo de aprendizagem de máquina que possa prever a probabilidade de um cliente cancelar seu plano atual.
 
 Tarefas com pacotes e funções utilizadas:  
-+ Análise exploratória: pandas, numpy, scipy.stats, re, seaborn, matplotlib.ticker.PercentFormatter.  
++ Análise exploratória: pandas, numpy, scipy.stats, re, seaborn, plotly.express.  
 + Pré-processamento: sklearn.preprocessing.StandardScaler, sklearn.decomposition.PCA, sklearn.feature_selection.SelectFromModel.  
 + Balanceamento de classes: imblearn.oversampling.ADASYN.  
 + Criação do modelo: sklearn.linear_model.LogisticRegression, sklearn.ensemble.RandomForestClassifier, sklearn.model_selection.GridSearchCV.  

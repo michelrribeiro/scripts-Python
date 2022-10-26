@@ -13,7 +13,7 @@ Fonte dos dados: disponibilizados juntamente com a proposta de projeto.
 
 Objetivo: criar um modelo de aprendizado de máquina que possa prever a probabilidade de um cliente cancelar seu plano atual.
 
-Tarefas com pacotes e funções utilizadas:  
+Tarefas com bibliotecas, pacotes e métodos utilizados:
 + Análise exploratória: pandas, numpy, scipy.stats, re, seaborn.  
 + Balanceamento de classes: imblearn.oversampling.ADASYN.  
 + Criação do modelo: sklearn.linear_model.LogisticRegression, sklearn.model_selection.GridSearchCV.  
@@ -29,7 +29,7 @@ Dados de janeiro a maio de 2020.
 Objetivo: avaliar a série temporal do crescimento de casos de covid-19 e as mortes causadas pela doença. Além disso, criar um modelo para
 projeção da curva de crescimento no Brasil.
 
-Tarefas com pacotes e funções utilizadas:  
+Tarefas com bibliotecas, pacotes e métodos utilizados:
 + Análise exploratória: pandas, numpy, scipy.stats, re, plotly.express, plotly.graph_objects.  
 + Decomposição da série: statsmodels.tsa.seasonal.seasonal_decompose.  
 + Criação do modelo: pmdarima.arima.auto_arima, prophet.Prophet.
@@ -40,7 +40,7 @@ Origem: projeto proposto pelo curso “Big Data Real-Time Analytics com Python e
 Fonte dos dados: disponibilizados juntamente com a proposta de projeto.
 Objetivo: criar um modelo de aprendizagem de máquina que possa prever a probabilidade de um cliente cancelar seu plano atual.
 
-Tarefas com pacotes e funções utilizadas:  
+Tarefas com bibliotecas, pacotes e métodos utilizados:
 + Análise exploratória: pandas, numpy, scipy.stats, re, seaborn, plotly.express.  
 + Pré-processamento: sklearn.preprocessing.StandardScaler, sklearn.decomposition.PCA, sklearn.feature_selection.SelectFromModel.  
 + Balanceamento de classes: imblearn.oversampling.ADASYN.  

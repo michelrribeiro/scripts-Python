@@ -1,7 +1,7 @@
 
 ### Descrição dos documentos deste repositório:
 
-Aqui se encontram os scripts escritos com linguagem python para resolver problemas de negócio com uso de machine learning e outras bibliotecas que possam ser necessárias.
+Aqui se encontram os scripts curtos escritos com linguagem python para resolver problemas de negócio com uso de machine learning e outras bibliotecas que possam ser necessárias.
 
 Os arquivos foram enumerados conforme a data de criação, pois assim a evolução no conhecimento também pode ser sentida. Novos scripts serão
 inclusos conforme novos projetos forem feitos.
